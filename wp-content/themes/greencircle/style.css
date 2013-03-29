@@ -641,7 +641,7 @@ a:hover {
 #branding #searchform {
 	position: absolute;
 	top: 3.8em;
-	right: 7.6%;
+	right: 10%;
 	text-align: right;
 }
 #branding #searchform div {
@@ -699,6 +699,8 @@ a:hover {
 #main {
 	clear: both;
 	padding: 1.625em 0 0;
+
+	margin:auto;
 }
 .page-title {
 	color: #666;
@@ -2727,5 +2729,5 @@ p.comment-form-comment {
 
 #searchform
 {
-	right:10%;
+
 }
